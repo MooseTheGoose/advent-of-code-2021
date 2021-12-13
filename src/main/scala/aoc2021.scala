@@ -18,4 +18,10 @@ object AoC2021 extends App {
   Star14.solve()
   Star15.solve()
   Star16.solve()
+  Star17.solve()
+  Star18.solve()
+  Star21.solve(100)
+  Star22.solve()
+  Star23.solve()
+  Star24.solve()
 }
